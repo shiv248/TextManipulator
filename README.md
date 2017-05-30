@@ -2,7 +2,7 @@
 
 TextManipulator is an expressive, minimalistic, elegant algorithm implemented in Python.  This project is _very_ much a work in progress, as I explore the wonderful world of Python!
 
-## Goals
+# Goals
 
   - fast!
   - small
@@ -12,7 +12,7 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
   - GUI
   - ...
 
-## Prerequisets
+# Prerequisets
   - Python 3
   - Texttable
 
@@ -30,7 +30,7 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
     pip install texttable
 ```
 
-## Status
+# Status
 
   Generalized status:
 
@@ -43,25 +43,32 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
   - ? options
   - ? Any More?
 
-## Usage
-#Verion 1
+# Usage
+
+##Verion 1
 
 right click on _**Main.py**_ and click **Run with IDLE**
 
 
 **Menu**
+
 ![menu](https://image.ibb.co/kSvHSa/menu.png)
+
 Go to Menu of the _IDLE_
 
 **Run**
+
 ![run](https://image.ibb.co/e2tRLv/run.png)
+
 Click the run button on the menu bar
 
 **File Explorer**
+
 ![fileexp](https://preview.ibb.co/d9e0fv/file.png)
+
 Locate your text file that you want to manupulate.
 
-# Version 2
+## Version 2
 Run the file through CMD and get a text file output
 
 Open Command Prompt
@@ -75,6 +82,6 @@ to run the file and save the output:
     python Main.py >> (OutputFileName.log)
 ```
 
-## License
+# License
 
   MIT
