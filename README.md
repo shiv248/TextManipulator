@@ -47,31 +47,31 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
 
 ## Version 1
 
-right click on _**Main.py**_ and click **Run with IDLE**
+> right click on _**Main.py**_ and click **Run with IDLE**
 
 
-**Menu**
+**Menu:**
 
 ![menu](https://image.ibb.co/kSvHSa/menu.png)
 
-Go to Menu of the _IDLE_
+> Go to Menu of the _IDLE_
 
-**Run**
+**Run: **
 
 ![run](https://image.ibb.co/e2tRLv/run.png)
 
-Click the run button on the menu bar
+> Click the run button on the menu bar
 
-**File Explorer**
+**File Explorer: **
 
 ![fileexp](https://preview.ibb.co/d9e0fv/file.png)
 
-Locate your text file that you want to manupulate.
+> Locate your text file that you want to manupulate.
 
 ## Version 2
-Run the file through CMD and get a text file output
+ Run the file through CMD and get a text file output
 
-Open Command Prompt
+> Open Command Prompt
  in CMD change directory to the folder with _Main.Py_
  
 ```
