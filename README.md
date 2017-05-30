@@ -45,7 +45,7 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
 
 # Usage
 
-## Verion 1
+## Version 1
 
 right click on _**Main.py**_ and click **Run with IDLE**
 
