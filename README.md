@@ -18,11 +18,11 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
 
 **Python:**
 
- To install Python go to their [Downloads](https://www.python.org/downloads/) Page
+ > To install Python go to their [Downloads](https://www.python.org/downloads/) Page
  
 **Texttable:**
 
- Once instalation is done open command prompt
+ > Once instalation is done open command prompt
 
  in CMD type:
 
