@@ -52,19 +52,19 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
 
 **Menu:**
 
-![menu](https://image.ibb.co/kSvHSa/menu.png)
+![menu](https://image.ibb.co/gY12tF/menu.png)
 
 > Go to Menu of the _IDLE_
 
 **Run:**
 
-![run](https://image.ibb.co/e2tRLv/run.png)
+![run](https://image.ibb.co/gwzoYF/run.png)
 
 > Click the run button on the menu bar
 
 **File Explorer:**
 
-![fileexp](https://preview.ibb.co/d9e0fv/file.png)
+![fileexp](https://preview.ibb.co/g4T47a/file.png)
 
 > Locate your text file that you want to manupulate.
 
