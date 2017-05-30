@@ -56,13 +56,13 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
 
 > Go to Menu of the _IDLE_
 
-**Run: **
+**Run:**
 
 ![run](https://image.ibb.co/e2tRLv/run.png)
 
 > Click the run button on the menu bar
 
-**File Explorer: **
+**File Explorer:**
 
 ![fileexp](https://preview.ibb.co/d9e0fv/file.png)
 
@@ -77,7 +77,7 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
 ```
     cd (File Location)
 ```
-to run the file and save the output:
+To run the file and save the output:
 ```
     python Main.py >> (OutputFileName.log)
 ```
