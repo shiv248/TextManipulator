@@ -1,0 +1,146 @@
+ Volume in drive S has no label.
+ Volume Serial Number is F840-73D7
+
+ Directory of S:\students\P5\P5U01\Inventor\Choo Choo
+
+04/20/2017  01:54 PM           124,416 AndradeEvelyn_Stack.ipt
+               1 File(s)        124,416 bytes
+
+ Directory of S:\students\P5\P5U02
+
+04/26/2017  12:25 PM           125,440 AndradeJared_Stack.ipt
+               1 File(s)        125,440 bytes
+
+ Directory of S:\students\P5\P5U02\Inventor\CHOO CHOO
+
+04/26/2017  12:25 PM           125,440 AndradeJared_Stack.ipt
+               1 File(s)        125,440 bytes
+
+ Directory of S:\students\P5\P5U03\Inventor\Choo Choo
+
+04/24/2017  01:29 PM           124,928 BatutisDean_Stack.ipt
+               1 File(s)        124,928 bytes
+
+ Directory of S:\students\P5\P5U05\Inventor\Choo Choo
+
+04/20/2017  01:01 PM           121,344 CheungKevin_Stack.ipt
+               1 File(s)        121,344 bytes
+
+ Directory of S:\students\P5\P5U06\Inventor\Choo Choo
+
+04/20/2017  12:59 PM           120,832 ChoateKai_Stack.ipt
+               1 File(s)        120,832 bytes
+
+ Directory of S:\students\P5\P5U07\Inventor\CHOO CHOO
+
+04/26/2017  01:56 PM           125,440 ChongAustin_Stack.ipt
+               1 File(s)        125,440 bytes
+
+ Directory of S:\students\P5\P5U08\Inventor\Choo Choo
+
+04/26/2017  01:35 PM           143,360 CooperRachel_Stack.ipt
+               1 File(s)        143,360 bytes
+
+ Directory of S:\students\P5\P5U09\Inventor\Choo Choo
+
+04/28/2017  12:55 PM           123,904 CrkvenacDylan_Stack.ipt
+               1 File(s)        123,904 bytes
+
+ Directory of S:\students\P5\P5U10\Inventor\CHOO CHOO
+
+04/26/2017  01:35 PM           161,280 CunananCJ_Stack.ipt
+               1 File(s)        161,280 bytes
+
+ Directory of S:\students\P5\P5U11\Inventor\Choo Choo
+
+04/20/2017  01:00 PM           120,320 CunninghamCian_Stack.ipt
+               1 File(s)        120,320 bytes
+
+ Directory of S:\students\P5\P5U13\Inventor\Choo Choo
+
+04/26/2017  12:54 PM           119,808 DurrenbergerMarcus_Stack.ipt
+               1 File(s)        119,808 bytes
+
+ Directory of S:\students\P5\P5U14\Inventor\choo choo
+
+04/26/2017  12:26 PM           124,416 PaulPulkit_Stack.ipt
+               1 File(s)        124,416 bytes
+
+ Directory of S:\students\P5\P5U17\Inventor\Choo Choo
+
+04/18/2017  01:56 PM           122,880 LinJustin_Stack.ipt
+               1 File(s)        122,880 bytes
+
+ Directory of S:\students\P5\P5U18\Inventor\Choo Choo
+
+04/26/2017  01:31 PM           124,928 LopezClarissa_Stack.ipt
+               1 File(s)        124,928 bytes
+
+ Directory of S:\students\P5\P5U19\Inventor\Choo Choo
+
+04/24/2017  01:02 PM           122,880 Pace_Josh_Stack.ipt
+               2 File(s)        237,568 bytes
+
+ Directory of S:\students\P5\P5U21\Inventor\Choo Choo
+
+04/28/2017  01:54 PM           128,512 PulidoCatherine__Stack.ipt
+               1 File(s)        128,512 bytes
+
+ Directory of S:\students\P5\P5U22\Inventor\Choo Choo
+
+04/24/2017  12:35 PM           124,928 SaldanhaJoshua_Stack.ipt
+               1 File(s)        124,928 bytes
+
+ Directory of S:\students\P5\P5U22\Inventor\Choo Choo\OldVersions
+
+04/24/2017  12:34 PM           124,928 SaldanhaJoshua_Stack.ipt
+               1 File(s)        124,928 bytes
+
+ Directory of S:\students\P5\P5U23\Inventor\choochoo
+
+04/26/2017  12:55 PM           123,904 SoaresVinny_Stack.ipt
+               1 File(s)        123,904 bytes
+
+ Directory of S:\students\P5\P5U25\Inventor\Choo Choo
+
+04/24/2017  01:06 PM           130,048 TranAndrew_Stack.ipt
+               1 File(s)        130,048 bytes
+
+ Directory of S:\students\P5\P5U26\Inventor\Choo Choo
+
+04/18/2017  01:53 PM           121,856 vanDiggelenAlex_Stack.ipt
+               1 File(s)        121,856 bytes
+
+ Directory of S:\students\P5\P5U27\Inventor\Choo Choo
+
+04/26/2017  01:28 PM           120,320 WilliamsAvvyan_Stack.ipt
+               1 File(s)        120,320 bytes
+
+ Directory of S:\students\P5\P5U28\Inventor\ChooChoo
+
+04/20/2017  12:49 PM           123,904 HaAndy_Stack.ipt
+               1 File(s)        123,904 bytes
+
+ Directory of S:\students\P5\P5U41\Inventor\Choo Choo
+
+04/24/2017  12:52 PM           124,928 EnnisJames_Stack.ipt
+               1 File(s)        124,928 bytes
+
+ Directory of S:\students\P5\P5U49\Inventor\Choo Choo
+
+04/24/2017  01:14 PM           124,928 WeinhagenTyler_Stack.ipt
+               1 File(s)        124,928 bytes
+
+ Directory of S:\students\P5\P5U50
+
+04/20/2017  01:31 PM           124,416 Justeson_Ethan_Stack.ipt
+               1 File(s)        124,416 bytes
+
+ Directory of S:\students\P5\P5U51\Inventor\Choo Choo
+
+04/18/2017  01:30 PM           121,856 GuptaKush_Stack.ipt
+               1 File(s)        121,856 bytes
+
+     Total Files Listed:
+              29 File(s)      3,640,832 bytes
+               0 Dir(s)  712,782,254,080 bytes free
