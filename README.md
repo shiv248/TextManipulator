@@ -1,4 +1,4 @@
- ![Luna programming language](https://image.ibb.co/b4ziiF/coollogo_com_290181332.png)
+ ![TextManipulator](https://image.ibb.co/b4ziiF/coollogo_com_290181332.png)
 
 TextManipulator is an expressive, minimalistic, elegant algorithm implemented in Python.  This project is _very_ much a work in progress, as I explore the wonderful world of Python!
 
@@ -16,17 +16,18 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
   - Python 3
   - Texttable
 
-**Python**
+**Python:**
+
  To install Python go to their [Downloads](https://www.python.org/downloads/) Page
  
-**Texttable**
+**Texttable:**
+
  Once instalation is done open command prompt
 
  in CMD type:
 
 ```
-   pip install texttable
-
+    pip install texttable
 ```
 
 ## Status
