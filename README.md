@@ -72,7 +72,7 @@ TextManipulator is an expressive, minimalistic, elegant algorithm implemented in
  Run the file through CMD and get a text file output
 
 > Open Command Prompt
- in CMD change directory to the folder with _Main.Py_
+ in CMD change directory to the folder with **_Main.Py_**
  
 ```
     cd (File Location)
